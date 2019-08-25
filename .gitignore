@@ -21,3 +21,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.idea/fileTemplates/
+.idea/inspectionProfiles/
+.idea/jsLibraryMappings.xml
+.idea/vagrant.xml
+.idea/vcs.xml
+public/images/
+public/index.css
+public/pagination.js
+server/
+!/.idea/
